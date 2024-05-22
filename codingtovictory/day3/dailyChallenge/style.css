@@ -1,0 +1,16 @@
+body{
+    background-color: gray;
+}
+.white{
+
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+    background-color: white;
+}
+.black{
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+    background-color: rgb(20, 19, 19);
+}
